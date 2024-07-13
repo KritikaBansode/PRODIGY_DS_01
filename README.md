@@ -1,6 +1,6 @@
 # Population Data Visualization
 
-This project visualizes the distribution of a categorical or continuous variable using population data from the World Bank. The visualization is done using Python, pandas, and matplotlib.
+This project visualizes the distribution of a categorical or continuous variable using population data. The visualization is done using Python, pandas, and matplotlib.
 
 ## Dataset
 
