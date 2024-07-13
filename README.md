@@ -4,7 +4,7 @@ This project visualizes the distribution of a categorical or continuous variable
 
 ## Dataset
 
-The dataset used in this project is sourced from the World Bank and provides population data.
+The dataset used in this project is distribution of ages.
 
 ![image](https://github.com/user-attachments/assets/0235a102-fc31-4310-851b-98466ee6165b)
 
