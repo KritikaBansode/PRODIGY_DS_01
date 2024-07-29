@@ -2,10 +2,11 @@
 
 This project visualizes the distribution of a categorical or continuous variable using population data. The visualization is done using Python, pandas, and matplotlib.
 
-## Dataset
+# Dataset
 
-The dataset used in this project is distribution of ages.
+The dataset used in this project provides population data by country and year.
 
-![image](https://github.com/user-attachments/assets/0235a102-fc31-4310-851b-98466ee6165b)
+![Screenshot 2024-07-29 233943](https://github.com/user-attachments/assets/a2f83bf3-2b6f-43f7-90b3-15c2688f0e4b)
 
-![image](https://github.com/user-attachments/assets/170eaf98-95d7-49a9-b248-4af89f0458e3)
+![image](https://github.com/user-attachments/assets/d9b7a22b-6036-4b8f-a50d-f4c6f18c9b0a)
+
